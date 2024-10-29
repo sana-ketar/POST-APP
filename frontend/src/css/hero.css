@@ -15,7 +15,7 @@
     height: 100vh; /* Prend toute la hauteur de la page */
     text-align: center;
     width: 100%;
-    background-color: #f8c291;
+    background-color: #0F8E7F;
     padding: 20px; /* Un peu de padding pour éloigner le footer du bord */
   }
   
@@ -24,7 +24,7 @@
   }
   
   #addPostButton {
-    color: #642369;
+    color: #001F1B;
     font-weight: 800;
   }
   .slogan {
@@ -32,11 +32,11 @@
   }
   
   .addPostButton {
-    color: #642369;
+    color: #001F1B;
   }
   
   .arrow {
-    color: #642369;
+    color: #001F1B;
   }
   
   .hero-footer {
@@ -49,6 +49,6 @@
   }
   
   #viewAllPosts {
-    color: #642369;
+    color: #001F1B;
     text-decoration: none;
   }
