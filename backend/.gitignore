@@ -20,3 +20,5 @@ yarn-error.log*
 dist/
 build/
 uploads/ # Si vous avez un dossier pour les fichiers uploadés
+
+#ici on donne l'odre de ne partager tout ce qui est dans .env  sur github
